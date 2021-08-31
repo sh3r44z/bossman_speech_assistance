@@ -14,7 +14,7 @@ pip install PyObjC
 ```
 pip install PyAudio
 ```
-If there is a issue in installing PyAudio use:
+If there is a issue in installing PyAudio use:<br/>
 pip install pipwin <br/>
 pipwin install pyaudio
 ### Voice Commands
