@@ -14,8 +14,9 @@ pip install PyObjC
 ```
 pip install PyAudio
 ```
-(If there is a issue in installing PyAudio use .whl file from this link [https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio))  
-
+###If there is a issue in installing PyAudio use:
+pip install pipwin
+pipwin install pyaudio
 ### Voice Commands
 
 You can add other commands, but these are the ones that exist
